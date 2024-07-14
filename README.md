@@ -2,7 +2,18 @@
 ![](https://github.com/ImamSR/T-Gas/blob/main/LOGO%20T-GAS.jpeg?raw=true)
 
 Team Profiles
-1. Imam Sayyid Rahman
+1. Imam Sayyid Rahman (1217050068)
+   - Role : Front end & Back End
+
+2. Muhammad Fakhri Fakhruddin (1217050093)
+   - Role : Front End & Back End
+
+3. Moch Fadillah Azhar (1217050079)
+   - Role : Content Creative & Researcher
+
+ 4. Muhammad Faiz Robbany (1217050092)
+    - Role : Writer & UI/UX Design
+
 
 
 
